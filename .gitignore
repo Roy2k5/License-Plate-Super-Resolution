@@ -1,0 +1,7 @@
+outputs/
+__pycache__/
+.vscode/
+logs/
+*.ipynb
+data/train/
+*.zip
